@@ -9,7 +9,6 @@
 - 自動檢測 SSD/NVME 儲存設備
 - CPU 效能模式設定
 - 內存管理優化 (HugePages/Swappiness)
-- 網絡堆棧調校 (BBR/TCP 優化)
 - NUMA 架構支援強化
 - 自動備份系統配置文件
 
