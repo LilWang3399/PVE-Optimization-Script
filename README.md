@@ -57,7 +57,3 @@ sudo ./scripts/pve-optimizer.sh
    /etc/fstab.bak
    /etc/default/grub.bak
    ```
-
-## 📄 許可證
-
-本專案採用 [MIT 許可證](LICENSE)
