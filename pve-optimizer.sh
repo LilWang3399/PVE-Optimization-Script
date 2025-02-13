@@ -1,6 +1,5 @@
 #!/bin/bash
 # PVE Optimization Script v1.3
-# Repository: https://github.com/yourusername/PVE-Optimization-Script
 
 # 初始化設定
 SCRIPT_NAME="PVE Optimizer"
